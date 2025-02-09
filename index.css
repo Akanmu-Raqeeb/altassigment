@@ -36,3 +36,12 @@
 color: white;
     border: solid 1px white;
  }
+ button:hover{
+   background-color: white;
+   color: black;
+   height: 40px;
+   transition: 1s;
+   cursor: pointer;
+   box-shadow: 0 1px 8px #666;
+       border: solid 1px white;
+ }
