@@ -1,0 +1,39 @@
+.first{
+    height: 400px;
+    width: 380px;
+    background-color: #202020;
+    display: block;
+  justify-content: center;
+  align-items: center; 
+  border: solid 10px #E5E7EB;
+  margin-top: 30px;
+  
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.unique{
+    height: 70px;
+    width: 300px;
+    background-color:#FF0095 ;
+    margin-bottom: 40px;
+    position: relative;
+    top:-50px ;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    
+}
+.cont{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+}
+h1{
+    font-weight: 800;
+}
